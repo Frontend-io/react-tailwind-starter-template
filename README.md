@@ -1,2 +1,2 @@
-# vesta
-Official Repository for Vesta company
+# React-Tailwind Starter Template
+
